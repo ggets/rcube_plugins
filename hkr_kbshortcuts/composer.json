@@ -3,7 +3,7 @@
   "type": "roundcube-plugin",
   "description": "Basic keyboard shortcuts for the roundcube webmail client. I'm open to suggestions.",
   "version": "1.2.1-alpha3",
-  "time": "2013-07-01 10:38:12"
+  "time": "2013-07-01 10:38:12",
   "keywords": ["mail","keyboard","shortcuts","kb"],
   "homepage": "http://github.com/hkrware/hkr_kbshortcuts",
   "license": "GPL-3.0+",
